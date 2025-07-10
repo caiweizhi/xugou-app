@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="90" fill="#4F46E5" opacity="0.1"/>
+  
+  <!-- X 字母 -->
+  <path d="M60 60L140 140M140 60L60 140" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- 装饰性圆点 -->
+  <circle cx="100" cy="100" r="4" fill="#4F46E5"/>
+  <circle cx="100" cy="100" r="12" stroke="#4F46E5" stroke-width="2" fill="none"/>
+</svg> 

@@ -1,0 +1,1 @@
+CREATE INDEX `monitor_status_history_24h_timestamp_idx` ON `monitor_status_history_24h` (`timestamp`);
